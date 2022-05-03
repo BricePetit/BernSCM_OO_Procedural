@@ -56,3 +56,10 @@ Or
 cd BernSCM_Procedural
 ./test_xmgrace.sh
 ```
+## Requirements
+Required programming languages:
+- C++20
+- Python 3.8
+
+Required libraries:
+- Numpy for Python
